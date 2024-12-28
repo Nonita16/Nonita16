@@ -1,6 +1,4 @@
-# Hi there 👋 I'm **Alondra Castro**
-
-I'm a **Software Engineer** with over 5 years of experience building scalable, user-focused applications across the globe 🌍. From **React** and **TypeScript** to backend solutions, I bring a unique blend of technical expertise and marketing insight to solve complex problems and drive impactful results.
+![White Makeup Beauty Salon Linkedin Banner](https://github.com/user-attachments/assets/e2592e08-f553-421c-87e4-2e1183a21ebc)
 
 
 **Let’s Connect!**  - 💼 [LinkedIn](https://www.linkedin.com/in/alondra-castro-urieta/)  
