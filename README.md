@@ -27,12 +27,11 @@ I'm a **Software Engineer** with over 5 years of experience building scalable, u
 
 
 
-## 🛠️ **Technical Toolbox**  
-- **Languages**: JavaScript, TypeScript, HTML, CSS  
-- **Frameworks & Libraries**: React.js, Redux, Node.js  
-- **Dev Tools**: Git, Docker, Jenkins, Spinnaker, Datadog  
-- **APIs**: RESTful APIs, GraphQL  
-- **Other Skills**: Frontend Development, Responsive Design, Agile Methodologies, Debugging  
+### 🛠️ **Technical Toolbox**  
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Ruby  
+- **Frameworks & Libraries**: React.js, Redux, Node.js, Ruby on Rails  
+- **Tools & Platforms**: Git, AWS, RESTful APIs, Docker, Datadog, MySQL  
+- **Core Skills**: Front-End Development, Responsive Design, Agile Methodologies, Debugging  
 
 
 
